@@ -1,0 +1,74 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "customer_name": "John Doe",
+      "customer_position": "CEO",
+      "customer_subtitle": "Happy Customer",
+      "rating": 4.5,
+      "comment": "Great product! Very satisfied with the quality.",
+      "image_url": "https://example.com/john_doe.jpg",
+      "date": "2023-12-04"
+    },
+    {
+      "id": 2,
+      "customer_name": "Jane Smith",
+      "customer_position": "Marketing Manager",
+      "customer_subtitle": "Impressed Customer",
+      "rating": 5.0,
+      "comment": "Excellent service. Fast delivery and friendly customer support.",
+      "image_url": "https://example.com/jane_smith.jpg",
+      "date": "2023-12-03"
+    },
+    {
+      "id": 3,
+      "customer_name": "Bob Johnson",
+      "customer_position": "IT Specialist",
+      "customer_subtitle": "Satisfied Customer",
+      "rating": 3.0,
+      "comment": "Product was okay, but the packaging could be better.",
+      "image_url": "https://example.com/bob_johnson.jpg",
+      "date": "2023-12-02"
+    },
+    {
+      "id": 4,
+      "customer_name": "Emily White",
+      "customer_position": "HR Manager",
+      "customer_subtitle": "Delighted Customer",
+      "rating": 4.8,
+      "comment": "Impressive quality and quick delivery. Will buy again!",
+      "image_url": "https://example.com/emily_white.jpg",
+      "date": "2023-12-01"
+    },
+    {
+      "id": 5,
+      "customer_name": "Alex Brown",
+      "customer_position": "Finance Analyst",
+      "customer_subtitle": "Pleased Customer",
+      "rating": 4.2,
+      "comment": "The product met my expectations. Good value for money.",
+      "image_url": "https://example.com/alex_brown.jpg",
+      "date": "2023-11-30"
+    },
+    {
+      "id": 6,
+      "customer_name": "Sophia Taylor",
+      "customer_position": "Software Engineer",
+      "customer_subtitle": "Happy Shopper",
+      "rating": 4.7,
+      "comment": "Smooth transaction and excellent product quality.",
+      "image_url": "https://example.com/sophia_taylor.jpg",
+      "date": "2023-11-29"
+    },
+    {
+      "id": 7,
+      "customer_name": "David Wilson",
+      "customer_position": "Product Manager",
+      "customer_subtitle": "Satisfied Shopper",
+      "rating": 4.0,
+      "comment": "Good experience overall. The product arrived on time.",
+      "image_url": "https://example.com/david_wilson.jpg",
+      "date": "2023-11-28"
+    }
+  ]
+}
